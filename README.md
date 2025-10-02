@@ -26,3 +26,6 @@ Key Findings:
 - Crashes spike during the morning and evening commute hours
 
 
+Data:
+- I have not attached the data file as it is too large. If you need the data file, please look here:
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
